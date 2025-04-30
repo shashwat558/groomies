@@ -160,7 +160,7 @@ export default function Home() {
                   </div>
                 </div>
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl text-pink-700">
-                  Why Choose Pawsome Grooming?
+                  Why Choose Groomies Grooming?
                 </h2>
                 <p className="text-gray-600 text-lg">
                   {"With over 10 years of experience serving Chicago's pets, our certified groomers provide gentle, stress-free grooming in a clean, comfortable environment."}
@@ -349,7 +349,7 @@ export default function Home() {
                     <Star className="h-5 w-5 text-yellow-400" />
                   </div>
                   <p className="italic text-gray-600 text-lg">
-                    {"I've tried several groomers in Chicago, and Pawsome is by far the best. My anxious rescue dog actually enjoys going there!"}
+                    {"I've tried several groomers in Chicago, and Groomies is by far the best. My anxious rescue dog actually enjoys going there!"}
                   </p>
                   <div className="pt-4 border-t border-purple-100 flex items-center gap-3">
                     <div className="w-10 h-10 rounded-full bg-gradient-to-r from-purple-400 to-blue-400 flex items-center justify-center text-white font-bold">

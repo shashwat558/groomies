@@ -6,7 +6,7 @@ import { Inter } from "next/font/google"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "Pawsome Grooming - Chicago's Premier Pet Grooming Service",
+  title: "Groomies Grooming - Chicago's Premier Pet Grooming Service",
   description:
     "Professional pet grooming services in Chicago. We provide full grooming, bathing, nail trimming, and more for your furry friends.",
 }
